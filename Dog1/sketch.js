@@ -4,40 +4,40 @@ var dislike = 'Dislike:';
 var x = 0;
 
 function preload() {
-  frame = loadImage('plx/Dog1/image/Frame.png');
-  dog1 = loadImage('plx/Dog1/image/chihuahua.png');
-  bow = loadImage('plx/Dog1/image/bow.png');
-  ribbon = loadImage('plx/Dog1/image/ribbon.png');
+  frame = loadImage('image/Frame.png');
+  dog1 = loadImage('image/chihuahua.png');
+  bow = loadImage('image/bow.png');
+  ribbon = loadImage('image/ribbon.png');
   
-  ghost =loadImage('plx/Dog1/image/ghost.png');
-  ghost1 = loadImage('plx/Dog1/image/ghost1.jpg');
+  ghost =loadImage('image/ghost.png');
+  ghost1 = loadImage('image/ghost1.jpg');
   
-  mail = loadImage('plx/Dog1/image/mail.png');
-  mail1 = loadImage('plx/Dog1/image/mail1.jpg');
+  mail = loadImage('image/mail.png');
+  mail1 = loadImage('image/mail1.jpg');
   
-  cat = loadImage('plx/Dog1/image/cat.png');
-  cat1 = loadImage('plx/Dog1/image/cat1.jpg');
+  cat = loadImage('image/cat.png');
+  cat1 = loadImage('image/cat1.jpg');
   
-  bone = loadImage('plx/Dog1/image/bone.png');
-  bone1 = loadImage('plx/Dog1/image/bone1.jpg');
+  bone = loadImage('image/bone.png');
+  bone1 = loadImage('image/bone1.jpg');
   
-  tennis = loadImage('plx/Dog1/image/tennis.png');
-  tennis1 = loadImage('plx/Dog1/image/tennis1.jpg');
+  tennis = loadImage('image/tennis.png');
+  tennis1 = loadImage('image/tennis1.jpg');
   
-  bird = loadImage('plx/Dog1/image/bird.png');
-  bird1 = loadImage('plx/Dog1/image/bird1.jpg');
+  bird = loadImage('image/bird.png');
+  bird1 = loadImage('image/bird1.jpg');
   
-  male = loadImage('plx/Dog1/image/male.png');
-  male1 = loadImage('plx/Dog1/image/male1.jpg');
+  male = loadImage('image/male.png');
+  male1 = loadImage('image/male1.jpg');
   
-  female = loadImage('plx/Dog1/image/female.png');
+  female = loadImage('image/female.png');
   female1 = loadImage('image/female1.jpg');
   
-  love1 = loadImage('plx/Dog1/image/love.png');
-  dislike1 = loadImage('plx/Dog1/image/dislike.png');
+  love1 = loadImage('image/love.png');
+  dislike1 = loadImage('image/dislike.png');
   
   
-  button = loadImage('plx/Dog1/image/button.png');
+  button = loadImage('image/button.png');
 }
 function setup(){
   createCanvas(1524,768);
